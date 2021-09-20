@@ -24,6 +24,6 @@ services:
        WORDPRESS_DB_USER: wordpress
        WORDPRESS_DB_PASSWORD: wordpress
      volumes:
-      - ./SampleTheme:/var/www/html/wp-content/themes/SampleTheme
+      - ./realEstateTheme:/var/www/html/wp-content/themes/realEstateTheme
 volumes:
     db_data:
