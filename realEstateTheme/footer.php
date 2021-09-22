@@ -73,6 +73,10 @@ if (OCwindowWidth() <= 800) {
 	open_close("menubar_hdr3", "menubar-s3");
 }
 </script>
+<script src="<?php echo get_template_directory_uri(); ?>/js/imgchg_pack.js"></script>
+<script>
+imgchg_start('item_image1', 'item_image2', 'thumbnail', 'imgcaption', 0);
+</script>
 <?php wp_footer(); ?>
 </body>
 </html>
