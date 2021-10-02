@@ -33,8 +33,8 @@
 <li class="current"><a href="index.html">ホーム</a></li>
 <li><a href="javascript:void(0)" class="cursor-default">物件を借りる</a>
 	<ul class="ddmenu">
-	<li><a href="list.html">マンション・アパート</a></li>
-	<li><a href="list.html">一戸建て</a></li>
+	<li><a href="/category/apartment">マンション・アパート</a></li>
+	<li><a href="/category/house">一戸建て</a></li>
 	</ul>
 </li>
 <li><a href="javascript:void(0)" class="cursor-default">物件を買う</a>
