@@ -5,7 +5,7 @@
 ### docker-compose.ymlを修正する
 
 wordpressのvolumesを以下のように修正する。
-
+t
 ```
 wordpress:
      depends_on:
@@ -28,6 +28,9 @@ wordpress:
 ```
 
 参考サイト  
+
+記事一覧を表示する方法  
+https://hirashimatakumi.com/blog/3858.html
 
 Docker ComposeでWordPressのテーマ開発環境を一瞬で作成する  
 https://qiita.com/akiyama01/items/4dcaf889aad8883b4364

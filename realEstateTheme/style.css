@@ -377,7 +377,7 @@ body.is-fixed header {
 #item-image {
 	position: relative;
 	margin: 0 auto;
-	width: 80%;	/*画像の幅*/
+	width: 70%;	/*画像の幅*/
 }
 /*大きな画像の１行目*/
 #item-image #item_image1 {
